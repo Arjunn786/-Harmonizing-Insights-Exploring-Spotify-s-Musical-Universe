@@ -1,0 +1,2 @@
+# -Harmonizing-Insights-Exploring-Spotify-s-Musical-Universe
+Explore the diverse landscape of Spotify's music library through data visualization and analysis. Uncover trends in genres, artist popularity, and song characteristics using Python, pandas, Plotly, and more. Gain insights into what makes music popular and discover top artists and tracks in this immersive journey through Spotify's musical universe.
